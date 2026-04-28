@@ -8,3 +8,9 @@ The only tools allowed are:
 - Stack Overflow
 
 and any non-GenAI related tools. 
+
+# Rules set
+
+The CNN model cannot be a pre-trained model. Every single layer must be made entirely from scratch to ensure a well-rounded learning outcome.
+
+Libraries are allowed to be used for pipelines, imputers, data processing, etc. 
