@@ -1,13 +1,13 @@
 # Covid-CNN
 
-This repository contains a notebook with a trained CNN model that is served to be a learning experience for making a CNN model for determining Covid-19 cases using XRAY lung images without the use of Generative AI tools for its creation and training. 
+This repository contains a notebook with a trained CNN model that is served to be a learning experience for making a CNN model for determining Covid-19 cases using XRAY lung images with minimal to no usage of Generative AI tools for model creation and training, only guidance for debugging. 
 
-The only tools allowed are:
+The tools allowed are:
 - Search Engines
 - Documentations
 - Stack Overflow
 
-and any non-GenAI related tools. 
+and any non-GenAI related tools. (Search Engine AIs are allowed but with minimal usage and no copy-pasting)
 
 # Rules set
 
